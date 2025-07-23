@@ -1,7 +1,7 @@
 package org.example;
 
 @FunctionalInterface
-public interface IChecker<K> {
-    boolean check(K k);
+public interface IChecker {
+    boolean check(Integer number);
 
 }

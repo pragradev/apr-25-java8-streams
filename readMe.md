@@ -27,3 +27,13 @@ conditions 1: names must be less then 6 char
 
 
 # apr-25-java8-streams
+
+operators:
+logical op
+arith
+assignment op
+:: -> method reference op
+
+
+Optional classes:
+Null pointer wrapper/ avoid null pointer exception
